@@ -1,5 +1,9 @@
 # Legal Files — High-Stakes Legal Counsel Landing Page
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-brightgreen?style=for-the-badge)](https://priyanshu-onestar.github.io/legal-files-landing-page/)
+
+> 🌐 **Live Website**: [https://priyanshu-onestar.github.io/legal-files-landing-page/](https://priyanshu-onestar.github.io/legal-files-landing-page/)
+
 A modern, responsive, high-converting landing page built for high-stakes corporate law and legal counsel practices. Designed with a clean luxury aesthetic, accessible UI patterns, and lightweight vanilla web technologies.
 
 ![Preview](https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=1200)
